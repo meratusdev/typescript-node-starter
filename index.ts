@@ -1,7 +1,8 @@
-import { hello } from "./utils/hello";
+import { hello } from "~/utils/hello";
 
 const main = async () => {
-  hello("Zakiego");
+  const greeting = hello("Zakiego");
+  console.log(greeting);
 };
 
 main();
