@@ -1,5 +1,7 @@
 # TypeScript Node Starter
 
+[![Test](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml)
+
 1. Install dependencies
 
    ```bash
