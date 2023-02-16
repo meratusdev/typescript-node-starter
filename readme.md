@@ -1,23 +1,53 @@
-# TypeScript Node Starter
+# TypeScript Boilerplate with Jest Test Setup ⚡
 
 [![Test](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml)
 
-1. Install dependencies
+![image](https://user-images.githubusercontent.com/78015359/219260403-ff8686e2-27fd-422d-8183-c46c174c351a.png)
+
+Quickly start building your TypeScript-based application with this preconfigured starter project that includes test setup.
+
+## How To Use
+
+1. Clone the repository
 
    ```bash
-   pnpm install
+   git clone https://github.com/zakiego/typescript-node-starter.git
+   ```
 
-   # or
+2. Install dependencies
 
+   ```bash
    yarn install
    ```
 
-2. Run
+3. Run the project
 
    ```bash
-   pnpm start
-
-   # or
-
    yarn start
    ```
+
+4. Run tests
+
+   ```bash
+   yarn test
+   ```
+
+## Folder Structure
+
+```bash
+├── index.ts # Entry point
+├── utils # Utils folder
+│   ├── [utils].ts
+│   └── __tests__
+│       └── [utils].test.ts
+├── .github
+│   └── workflows
+│       └── test.yml # Github Actions for testing
+├── .vscode
+│   └── settings.json # VSCode settings
+├── .gitignore # Git ignore
+├── jest.config.js # Jest config
+├── package.json # Package.json
+├── README.md # Readme
+└── tsconfig.json # TypeScript config
+```
