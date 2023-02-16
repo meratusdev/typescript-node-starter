@@ -2,8 +2,6 @@
 
 [![Test](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml)
 
-![image](https://user-images.githubusercontent.com/78015359/219260403-ff8686e2-27fd-422d-8183-c46c174c351a.png)
-
 Quickly start building your TypeScript-based application with this preconfigured starter project that includes test setup.
 
 ## How To Use
