@@ -1,4 +1,4 @@
-# TypeScript Boilerplate with Jest Test Setup ⚡
+# TypeScript Boilerplate with Vitest Test Setup ⚡
 
 [![Test](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml)
 
@@ -44,7 +44,7 @@ Quickly start building your TypeScript-based application with this preconfigured
 ├── .vscode
 │   └── settings.json # VSCode settings
 ├── .gitignore # Git ignore
-├── jest.config.js # Jest config
+├── vitest.config.js # Vitest config
 ├── package.json # Package.json
 ├── README.md # Readme
 └── tsconfig.json # TypeScript config
