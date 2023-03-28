@@ -9,7 +9,7 @@ Quickly start building your TypeScript-based application with this preconfigured
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/zakiego/typescript-node-starter.git
+   git clone https://github.com/meratusdev/typescript-node-starter.git
    ```
 
 2. Install dependencies
