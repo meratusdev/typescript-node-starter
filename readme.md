@@ -1,4 +1,4 @@
-# TypeScript Boilerplate with Vitest Test Setup ⚡
+# TypeScript Boilerplate with Vitest Setup ⚡
 
 [![Test](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml)
 
