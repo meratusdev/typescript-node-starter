@@ -1,6 +1,6 @@
 # TypeScript Boilerplate with Vitest Test Setup ⚡
 
-[![Test](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/zakiego/typescript-node-starter/actions/workflows/test.yml)
+[![Test](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml/badge.svg)](https://github.com/meratusdev/typescript-node-starter/actions/workflows/test.yml)
 
 Quickly start building your TypeScript-based application with this preconfigured starter project that includes test setup.
 
